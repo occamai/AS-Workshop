@@ -16,3 +16,13 @@ This is my personal repository related to an upcoming book on Apache Spark.
 
 ### Multi-Class Classifier (1 vs All)
 
+# Deep Learning Chapter
+
+
+# Operationalizing Data Science Chapter
+
+## Data Imbalance
+
+## Feature Selection
+
+## Regularization
